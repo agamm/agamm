@@ -4,6 +4,7 @@
 {
   "name":"Agam",
   "value":"DevTool / Low-code go-to-market strategy",
+  "site": "https://agam.me",
   "social":{
     "twitter":"https://twitter.com/agammore",
     "linkedIn":"https://www.linkedin.com/in/agamm/"
@@ -25,6 +26,7 @@
 {  
 &ensp;&ensp;"name"</font>: "Agam",  
 &ensp;&ensp;"value": "DevTool / Low-code go-to-market strategy",  
+&ensp;&ensp;"site": "DevTool / Low-code go-to-market strategy",  
 &ensp;&ensp;"social": {  
 &ensp;&ensp;&ensp;&ensp;"twitter": "[@agammore](https://twitter.com/agammore)",  
 &ensp;&ensp;&ensp;&ensp;"linkedIn": "[agamm](https://www.linkedin.com/in/agamm/)"  
