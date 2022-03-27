@@ -3,7 +3,7 @@
 ```
 {
   "name":"Agam",
-  "value":"DevTool / Low-code go-to-market strategy",
+  "value":"Developer-first growth consulting.",
   "site": "https://agam.me",
   "social":{
     "twitter":"https://twitter.com/agammore",
