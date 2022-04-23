@@ -5,6 +5,7 @@
   "name":"Agam",
   "value":"Developer-first growth consulting.",
   "site": "https://agam.me",
+  "work": "https://unzip.co",
   "social":{
     "twitter":"https://twitter.com/agammore",
     "linkedIn":"https://www.linkedin.com/in/agamm/"
