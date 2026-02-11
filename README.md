@@ -3,9 +3,9 @@
 ```
 {
   "name":"Agam",
-  "value":"Developer-first growth consulting.",
-  "site": "https://agam.me",
-  "work": "https://unzip.co",
+  "value":"AI projects for CRE companies.",
+  "site": "https://pilpel.co",
+  "community": "https://aixcre.com",
   "social":{
     "twitter":"https://twitter.com/agammore",
     "linkedIn":"https://www.linkedin.com/in/agamm/"
